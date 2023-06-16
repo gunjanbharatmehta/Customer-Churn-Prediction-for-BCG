@@ -12,12 +12,16 @@ The main objective of this project is to develop a predictive model that can ide
 
 ## Project Overview
 - Task 1: Exploratory Data Analysis
+
 In this task, an exploratory analysis of the dataset was conducted to gain a holistic understanding. Data types, statistics, specific parameters, and variable distributions were examined. This analysis provides essential insights into the dataset.
 - Task 2: Hypothesis Testing
+
 To verify the hypothesis that churn is driven by customers' price sensitivities, a measure of price sensitivity was defined and calculated. The correlation between price sensitivity and churn was obtained to assess their relationship. Based on the analysis, the key findings were summarized in a half-page summary or slide. 
 - Task 3: Predictive Modeling
+
 A Random Forest classifier was trained on a cleaned and engineered dataset, evaluating its performance in predicting customer churn. The advantages and disadvantages of using a Random Forest were documented for this specific use case.
 - Task 4: Summarising
+
 The abstract slide synthesizes the project's findings and presents them to key stakeholders, including the Head of the SME division. This slide emphasizes the most important metrics and the potential impact of the predictive model on the client's bottom line.
 
 ## Methodology
